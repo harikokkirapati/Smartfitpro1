@@ -4,7 +4,7 @@ title Pushing SmartFit Pro to GitHub
 echo ========================================================
 echo    Pushing SmartFit Pro to GitHub Repository
 echo ========================================================
-echo Target: https://github.com/harikokkirapati/Smartfit-pro.git
+echo Target: https://github.com/harikokkirapati/Smartfitpro1.git
 echo.
 echo Connecting to GitHub and uploading all 33 files and images...
 echo (If a GitHub sign-in window opens, click Authorize/Sign-in)
@@ -14,7 +14,7 @@ if %ERRORLEVEL% EQU 0 (
     echo.
     echo ========================================================
     echo [SUCCESS] Your project and images are now LIVE on GitHub!
-    echo Visit: https://github.com/harikokkirapati/Smartfit-pro
+echo Visit: https://github.com/harikokkirapati/Smartfitpro1
     echo ========================================================
 ) else (
     echo.
