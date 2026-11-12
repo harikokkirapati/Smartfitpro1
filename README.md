@@ -2,7 +2,7 @@
 
 A flagship, responsive, and ultra-modern product landing page for the **SmartFit Pro Smartwatch**, engineered with HTML5, CSS3, and JavaScript.
 
-Developed by **SmartFit Pro Team**  
+Developed by **K. Hari Kiran**  
 Department of CSE (Artificial Intelligence & Machine Learning)  
 Ramachandra College of Engineering, Eluru, Andhra Pradesh  
 

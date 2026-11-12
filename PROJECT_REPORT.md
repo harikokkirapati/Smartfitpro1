@@ -1,7 +1,7 @@
 # DESIGN AND DEVELOPMENT OF SMARTFIT PRO SMARTWATCH PRODUCT LANDING PAGE USING HTML5, CSS3, AND JAVASCRIPT
 
 ## PROJECT REPORT
-**Submitted by:** SmartFit Pro Team  
+**Submitted by:** K. Hari Kiran  
 **Department:** Computer Science and Engineering (Artificial Intelligence & Machine Learning)  
 **Institution:** Ramachandra College of Engineering, Eluru, Andhra Pradesh  
 **Academic Year:** 2026–2027  
@@ -9,7 +9,7 @@
 ---
 
 ## CERTIFICATE
-This is to certify that the project report entitled **"Design and Development of SmartFit Pro Smartwatch Product Landing Page Using HTML, CSS, and JavaScript"** is a record of authentic project work carried out by **SmartFit Pro Team**, Department of Computer Science and Engineering (Artificial Intelligence & Machine Learning), Ramachandra College of Engineering, Eluru.
+This is to certify that the project report entitled **"Design and Development of SmartFit Pro Smartwatch Product Landing Page Using HTML, CSS, and JavaScript"** is a record of authentic project work carried out by **K. Hari Kiran**, Department of Computer Science and Engineering (Artificial Intelligence & Machine Learning), Ramachandra College of Engineering, Eluru.
 
 This project report is submitted in partial fulfilment of the academic requirements of the Bachelor of Technology degree.
 
@@ -25,7 +25,7 @@ I hereby declare that the project entitled **"Design and Development of SmartFit
 
 I further declare that this report accurately represents the implementation and technical scope of the project.
 
-**Student Name:** SmartFit Pro Team  
+**Student Name:** K. Hari Kiran  
 **Signature:** __________________  
 
 ---

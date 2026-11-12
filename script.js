@@ -1,6 +1,6 @@
 /**
  * SMARTFIT PRO - INTERACTIVE JAVASCRIPT
- * Author: SmartFit Pro Team
+ * Author: K. Hari Kiran
  * Features: Mobile Nav, ScrollSpy, Lightbox Modal, Order Modal, Form Validation, Live Pulse Simulation
  */
 
